@@ -18,7 +18,7 @@ Where:
 
        - sigmas are the standard deviations of the LoG filter, we used 1 and 1.5, but you can use any arbitrary number of scales
 
-       - KLThreshold is the threshold of the KL divergence of the max pixel in the neighborhood
+       - KLThreshold is the threshold of the KL divergence of the sum of pixels in a 3x3 pixel neighborhood about the max pixel
 Try out testCega.m, it will plot the results of cega.m in matlab for you.
 
 ## Other MATLAB files of interest:
