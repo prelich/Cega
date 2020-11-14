@@ -2,7 +2,8 @@
 Spot Finder for Live Cell Microscopy Data, leverages temporal information to identify diffraction limited particles in noisy data
 
 The MATLAB code is the most recent version of Ce:ga as used in the manuscript.
-The PYTHON code is provided for portability purposes, but is not current with the changes in the MATLAB code so we are not liable for deviations between the two versions.
+
+The PYTHON code is provided for portability purposes, but is not current with the changes in the MATLAB code.
 
 ## To use the MATLAB version,
 put cega.m in your path. <br>
