@@ -36,3 +36,6 @@ scoreCega.m, script to get the Jaccard Index between Cega and the Spot Finder
 cega.py , run it and it will make the filter movies as well as the coordinates in a dictionary.  The python version does not have a final thresholding step (The KLThresh function) on the spot candidates.
 
 motorSim.py, same as motorSim.m, a class object for generating molecular motor simulations
+
+## Test data
+the data folder contains 2 tifs that are representative samples of the data in the associated paper.  The gain and offset parameters are defined in the testCega.m file for these files.  Should you choose to use your own tiffs, you should modify the gain and offset parameters accordingly.
