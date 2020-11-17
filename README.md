@@ -1,4 +1,4 @@
-# Cega
+# Cega: A Single Particle Segmentation Algorithm to Identify Moving Particles in a Noisy System
 Spot Finder for Live Cell Microscopy Data, leverages temporal information to identify diffraction limited particles in noisy data
 
 The MATLAB code is the most recent version of Ce:ga as used in the manuscript.
